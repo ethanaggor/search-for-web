@@ -1,0 +1,1 @@
+This directory is an exercise from the Head First Python webapp exercise.
